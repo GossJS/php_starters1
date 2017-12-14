@@ -62,3 +62,11 @@ echo '<h1><?php echo date("r"); ?></h1>' > index.php
 Что такое протокол HTTP? Что такое URL-кодирование? https://kodaktor.ru/g/urlcode 
 
 
+---
+Задание z1
+
+z1 вывод времени
+
+выведите с помощью date_default_timezone_set и date дату в формате
+
+13/12/2017 15:50 
