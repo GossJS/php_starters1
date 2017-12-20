@@ -1,5 +1,9 @@
 # 19-12-2017
 
+**https://kodaktor.ru/75ef02a**
+
+**http://j.mp/phpkurs2017**
+
 Задания.
 ---
 
