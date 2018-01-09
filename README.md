@@ -16,8 +16,17 @@ z5. Напишите сценарий, который заменяет в стр
 z6. Напишите PHP-сценарий, который выдаёт список валют вида:
 ![alt scheme](currencies.png "Список валют в формате JSON")
 
+
 и напишите JavaScript сценарий по образцу https://kodaktor.ru/logins09012018
 который выводит список названий валют извлечённый из указанного выше списка.
+
+
+Сценарий-образец, который формирует пример простого JSON-документа
+называется json1.php и располагается в нашем проекте в папке demo_files
+
+
+Он доступен по адресу https://php-study1-gossoudarev.c9users.io/demo_files/json1.php
+а информацию из него извлекает пример JavaScript-сценария по адресу https://kodaktor.ru/jsonfetch09012018
 
 
 z6(old). Напишите  сценарий вида https://php-study1-gossoudarev.c9users.io/kurs/Ivanova/6.php, который выдаёт с заголовком CORS документ  JSON с вашими именем и фамилией в виде {firstname: …, lastname: …} и убедитесь, что JSON отображается правильно при использовании инструментов типа JSON Formatter и что кодировка верная. Используйте функцию json_encode для выдачи  JSON, а  функцию header для задания заголовков CORS и Content-Type application/json https://kodaktor.ru/headers 
