@@ -1,6 +1,6 @@
 <?php
-$connection=mysql_connect("localhost", "root", "23111991");
-$db=mysql_select_db("my_bd");
+$connection=mysqli_connect("92.53.66.41", "root2", "23111991");
+$db=mysqli_select_db($connection, "my_bd");
 
 if(!$connection || !$db)
 {
@@ -8,7 +8,8 @@ if(!$connection || !$db)
 }
 else
 {
-	echo "Нет соединения...";
+	echo " ЕСТЬ соединение...";
 }
 
 ?>
+
