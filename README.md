@@ -6,3 +6,5 @@ http://kodaktor.ru:9876/php/sessions_demo/private.php - закрытый раз�
 
 
 git clone -b sessions_demo https://github.com/GossJS/php_starters1.git .
+
+А вот видеоролик, который демонстрирует время жизни куки: https://www.youtube.com/watch?v=yfx_kktPbow
