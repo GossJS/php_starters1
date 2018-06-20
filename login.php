@@ -8,7 +8,7 @@
   if (isset($_SESSION['success'])) {
      die("Уже авторизованы! {$private}");
   }
-  $script = "//{$_SERVER['SERVER_NAME']}{$_SERVER['SCRIPT_NAME']}";
+  $script = "{$_SERVER['SCRIPT_NAME']}";
   if ($_SERVER['REQUEST_METHOD']==='POST') {
        $r =  sha1($_POST['password']);
        $f = fopen('password.txt', 'r'); $line = fgets($f); fclose($f);
