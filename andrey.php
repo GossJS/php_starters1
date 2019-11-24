@@ -75,3 +75,11 @@ imagepng(imagerotate($image, 180, 0));
 
 // free memory
 imagedestroy($image);
+
+/*
+
+
+   http://kodaktor.ru:9876/php/andrey.php
+
+
+*/
