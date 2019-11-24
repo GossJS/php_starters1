@@ -42,7 +42,7 @@ function create_chart($value, $key)
     $white_color = imagecolorallocate($image, 255, 255, 255);
 
     // font
-    $font = getcwd() . '/OpenSans.ttf';
+    $font = getcwd() . '/fonts/OpenSans.ttf';
 
     // chart
     $chart_height = $image_height;
