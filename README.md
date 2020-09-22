@@ -40,8 +40,6 @@
 - https://kodaktor.ru/bc67765_16a49
 - https://kodaktor.ru/bc67765
 
----
-В проекте kodent адрес https://php-study1-gossoudarev.c9users.io/kurs2017/goss/1.php означает что файл находится по адресу `/home/ubuntu/workspace/kurs2017/goss/1.php`
 
 ---
 
