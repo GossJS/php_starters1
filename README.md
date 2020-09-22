@@ -11,7 +11,7 @@
 ---
 
 Сравните:
-- https://php-study1-gossoudarev.c9users.io/kurs2017/goss/1.php
+
 
 ```PHP
 <ol>
